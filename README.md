@@ -6,8 +6,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=mahtabesmaeili1&style=flat-square&color=blue" alt=""/>
-<h1>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mahtabesmaeili1&style=flat-square&color=blue" alt=""/>
+  </div>
+<h1 align="center">
   Hello there
   <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
