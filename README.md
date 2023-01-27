@@ -27,4 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/sequelize/art/main/sequelize-cli.svg" title="Sequelize CLI" alt="Sequelize CLI" width="40" height="40"/>&nbsp;
 </div>
