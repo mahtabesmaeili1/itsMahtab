@@ -10,13 +10,19 @@
 <img src="https://komarev.com/ghpvc/?username=mahtabesmaeili1&style=flat-square&color=blue" alt=""/>
   </div>
 <h1 align="center">
-  Hey! I am Mahtab 😁
+  Hey! I am Mahtab 😊
   <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
 
-###  I am a Full Stack Web Developer 
+### :woman_technologist: About Me :
+- :computer: I am a Full Stack Web Developer.
+- 🇮🇷: I am from Iran. 
+- 🇳🇱: I live in the Amsterdam since 2018.
+- :mortar_board: I have just graduated from <a href="https://codaisseur.com/courses/academy/" alt="Codaisseur Full Stack JavaScript Academy">Codaisseur Full Stack JavaScript Academy</a>.
+- :stuck_out_tongue: I speak 🇮🇷🇬🇧🇹🇷🇳🇱 
+- :zap: In my free time I enjoy: | running  🏃‍♀️ | video games  :video_game: | watching movies 🎥| playing guitar 🎸|.
 
 <div>
  <img
