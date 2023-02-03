@@ -36,3 +36,9 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 <img
 src='https://camo.githubusercontent.com/22576fa0bcafa04f28a615214209cc28bc4cc6d7e30c1676ac2609ed61b30667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f266c6f676f3d7265647578' />
 </div>
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Victory-F&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabesmaeili1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
