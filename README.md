@@ -44,6 +44,3 @@ src='https://camo.githubusercontent.com/22576fa0bcafa04f28a615214209cc28bc4cc6d7
 </div>
 
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabesmaeili1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
